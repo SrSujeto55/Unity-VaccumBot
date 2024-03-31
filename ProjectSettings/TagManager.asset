@@ -3,12 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pared
+  - BaseDeCarga
+  - Basura
+  - Nodo
+  - Trash
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - obstacles
   - Water
   - UI
   - 
